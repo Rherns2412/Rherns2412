@@ -33,7 +33,7 @@ B.Tech AIML Student · AI/ML Enthusiast · Building AI-powered solutions for rea
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kaira-jambhulkar/" target="_blank">
+<a href="https:www.linkedin.com/in/kaira-jambhulkar-b2b185397" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
 </a>
 
