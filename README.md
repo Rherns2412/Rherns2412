@@ -33,12 +33,16 @@ B.Tech AIML Student · AI/ML Enthusiast · Building AI-powered solutions for rea
 
 <p align="center">
 
-<a href="https:www.linkedin.com/in/kaira-jambhulkar-b2b185397" target="_blank">
+<a href="https://www.linkedin.com/in/kaira-jambhulkar-b2b185397/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Rherns2412" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+</a>
+
+<a href="https://discord.gg/RKbj26Z2b" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
 </a>
 
 </p>
